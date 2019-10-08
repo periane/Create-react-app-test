@@ -1,0 +1,32 @@
+{
+  "appartements": [
+    {
+      "name": "appart1",
+      "description": "Loremaaaaaaaaaa",
+      "date": 1570448935,
+      "status": "actif"
+    },
+    {
+      "name": "appart2",
+      "description": "Loremaaaaaaaaaa"
+    },
+    {
+      "name": "appart3",
+      "description": "Loremaaaaaaaaaa"
+    },
+    {
+      "name": "appart4",
+      "description": "Loremaaaaaaaaaa"
+    },
+    {
+      "name": "appart5",
+      "description": "Loremaaaaaaaaaa"
+    },
+    {
+      "name": "appart6",
+      "description": "Loremaaaaaaaaaa",
+      "date": 1570448935,
+      "status": "actif"
+    }
+  ]
+}
